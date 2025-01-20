@@ -29,3 +29,6 @@ print(f'Encrypted Text: {encrypted_text}')
 # Decrypt
 decrypted_text = decrypt(encrypted_text, custom_key)
 print(f'Decrypted Text: {decrypted_text}')
+
+## Acknowledgments
+- This project is inspired by the Scientific Python Certification course from [FreeCodeCamp](https://www.freecodecamp.org/).
